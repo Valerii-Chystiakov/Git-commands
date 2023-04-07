@@ -2,12 +2,12 @@
 
 ## Main commands
 <ol>
-  <li>1)git clone [ssh of file] - clone files from GitHub to cd folder</li>
+  <li>git clone [ssh of file] - clone files from GitHub to cd folder</li>
 
-<li>2)git add . & git commit -m "[text]"
+<li>git add . & git commit -m "[text]"
   OR git commit -am [text]</li>
 
-<li>3)git push </li>
+<li>git push </li>
 </ol>
 
 git status - check the stage
