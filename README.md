@@ -21,7 +21,7 @@ git merge [name] 	      - marge with another branch
 
 ## Undoing
 
-&nbsp;git reset [name of file] - undo current commit 
-&nbsp;git reset HEAD~1	     - undo to previous commit 
-&nbsp; git log 		           - log of commits 
-&nbsp; git reset [commit id]  - undo to id_commit
+git reset [name of file] - undo current commit </br>
+git reset HEAD~1	     - undo to previous commit </br>
+git log 		           - log of commits </br>
+git reset [commit id]  - undo to id_commit </br>
