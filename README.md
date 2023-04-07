@@ -1,4 +1,4 @@
-#Working with GitHub
+# Working-with-GitHub
 
 ##Main commands
 1)git clone [filename] - clone files from GitHub to cd folder
