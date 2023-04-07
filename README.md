@@ -1,6 +1,6 @@
 # Working-with-GitHub
 
-##Main commands
+## Main commands
 1)git clone [filename] - clone files from GitHub to cd folder
 
 2)git add . & git commit -m "[text]"
@@ -10,7 +10,7 @@
 
 git status - check the stage
 
-##Branches
+## Branches
 
 git branch 		- show the list of branches
 git checkout [name]     - switch between the braches
@@ -19,7 +19,7 @@ git checkout -b [name]  - create and switch to
 git deff [name] 	- shows the difference
 git merge [name] 	- marge with another branch
 
-##Undoing
+## Undoing
 
 git reset [name of file] - undo current commit
 git reset HEAD~1	 - undo to previous commit
