@@ -1,12 +1,14 @@
 # Working-with-GitHub
 
 ## Main commands
-1)git clone [ssh of file] - clone files from GitHub to cd folder
+<ul>
+  <li>1)git clone [ssh of file] - clone files from GitHub to cd folder</li>
 
-2)git add . & git commit -m "[text]"
-  OR git commit -am [text]
+<li>2)git add . & git commit -m "[text]"
+  OR git commit -am [text]</li>
 
-3)git push
+<li>3)git push </li>
+</ul>
 
 git status - check the stage
 
