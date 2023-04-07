@@ -12,12 +12,12 @@ git status - check the stage
 
 ## Branches
 
-git branch 		          - show the list of branches
-git checkout [name]     - switch between the braches
-git checkout -b [name]  - create and switch to
+git branch 		          - show the list of branches</br>
+git checkout [name]     - switch between the braches</br>
+git checkout -b [name]  - create and switch to</br>
 
-git deff [name] 	      - shows the difference
-git merge [name] 	      - marge with another branch
+git deff [name] 	      - shows the difference</br>
+git merge [name] 	      - marge with another branch</br>
 
 ## Undoing
 
