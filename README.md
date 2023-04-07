@@ -5,7 +5,7 @@
   <li>git clone [ssh of file] - clone files from GitHub to cd folder</li>
 
 <li>git add . & git commit -m "[text]"
-  OR git commit -am [text]</li>
+  <br>OR<br> git commit -am [text]</li>
 
 <li>git push </li>
 </ol>
